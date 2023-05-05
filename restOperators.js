@@ -1,5 +1,5 @@
 // RestOperator
-// Rest Used to take list of function arguments and convert them into an Array
+// Rest Used to take list of function arguments and convert them into single Array
 
 
 const restOperators=(...args) =>{
